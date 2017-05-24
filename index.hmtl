@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+   <style>* {
+  font-family: 'Georgia', 'Times', serif;
+}
+
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+}
+    
+  </style>
+ <head>
+<body>
+<h1> All About Me</h1>
+<title>
+ My portfolio </title>
+<p>
+My name is Zhan Haoran Alicia. I am a student of Dunman High School. Currently in 1st year high school. </p>
+<a href ="www.dhs.sg"> Dunman High School  </a>
+<img src=""/><ul>
+<p>These are the things I love the most </p>
+<li>Cycling</li>
+<a href="https://www.youtube.com/"> youtube</a>
+<a href="https://www.goodreads.com/"> Reading</a>
+<li>Travelling</li>
+</ul>
+</body>
+</html>
